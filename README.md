@@ -1,9 +1,9 @@
 # CAROM-ML: Comparitive Analysis of Regulators of Metabolism - Machine Learning
-CAROM-ML is a machine-learning tool used to analyze the distribution of metabolic control between post-translational modifications (PTMs). CAROM-ML comprises of a XGBoost model trained on various gene, reaction and enzyme properties which predicts whether an enzyme is acetylated, phosphorylated or neither. Additionally, CAROM-ML explores the properties of gene-reaction pairs that have the largest impact on the model's classification. 
+CAROM-ML is a machine-learning tool used to analyze the distribution of metabolic control between post-translational modifications (PTMs). CAROM-ML comprises of a XGBoost model trained on various gene, reaction and enzyme properties which predicts whether an enzyme is acetylated, phosphorylated or neither. Additionally, CAROM-ML explores the properties of gene-reaction pairs that have the largest impact on the model's classification.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-![](https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png)
+![](https://github.com/kirksmi/CAROM/blob/main/caromLogo2.png)
 
 
 ## Requirements  (Prerequisites)
@@ -13,7 +13,7 @@ For example:
 * Python 3.3 and up [Install](https://link-for-setup-guide)
 
 ## Installation
-A step by step list of commands / guide that informs how to install an instance of this project. 
+A step by step list of commands / guide that informs how to install an instance of this project.
 
 `$ pip install foobar`
 
@@ -28,7 +28,7 @@ For Linux and OS X
 For Windows
 
 `git clone project-url`
- 
+
 ## Screenshots
 Use this space to give a little demo of your project. Attach important screenshots if applicable. This section is optional and might not be applicable in some cases.
 
@@ -43,14 +43,14 @@ Write a little about unique features of your project and what makes it outstandi
 * Etc Etc......
 
 ## Usage example
-Show how and what your project does. Users should figure out how your project solves their problem by looking at the code example. Spice this up with code blocks and potentially more screenshots. These examples should motivate the users to use your project. 
+Show how and what your project does. Users should figure out how your project solves their problem by looking at the code example. Spice this up with code blocks and potentially more screenshots. These examples should motivate the users to use your project.
 ```python
 import foobar
 
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
-``` 
+```
 
 Mention any other documentation or live example available for reverence.
 
@@ -64,11 +64,11 @@ Give code examples as:
 4. `test till you finish`
 
 ## Deployment Notes
-Explain how to deploy your project  on a live server. To do so include step by step guide. Potentially do this for multiple platforms. 
+Explain how to deploy your project  on a live server. To do so include step by step guide. Potentially do this for multiple platforms.
 ```sh
 virtualenv foobar
 npm test
-make install 
+make install
 pip install -e .
 More examples please....
 ```
@@ -76,7 +76,7 @@ More examples please....
 ## Tech Stack / Built With
 List down the technology / frameworks / tools / technology you have used in this project.
 1. [Laravel](https://laravel.com/) - The PHP framework
-2. [IPFS](https://ipfs.io/)  - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. 
+2. [IPFS](https://ipfs.io/)  - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 3. [Android](https://www.android.com/) - The world’s most popular mobile OS
 
 ## How to Contribute
@@ -91,15 +91,15 @@ Steps to contribute:
 4. Push to the branch (git push origin feature/fooBar)
 5. Create a new Pull Request
 
-Additionally you can create another document called CONTRIBUTING.md which gives instructions about how to contribute. 
+Additionally you can create another document called CONTRIBUTING.md which gives instructions about how to contribute.
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 Write about yourself or your organization, who created this project. For example:
- 
+
 Sagar Ganiga  – tech.ganiga@gmail.com
- 
+
  You can find me here at:
 [Github](https://github.com/SagarGaniga)
 [LinkedIn](https://www.linkedin.com/in/sagar-ganiga/)
