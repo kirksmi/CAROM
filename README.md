@@ -4,6 +4,7 @@ CAROM-ML is a machine-learning tool used to analyze the distribution of metaboli
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ![](https://github.com/kirksmi/CAROM/blob/main/caromLogo2.png =100x100)
+<img src="(https://github.com/kirksmi/CAROM/blob/main/caromLogo2.png" alt="drawing" width="200"/>
 
 
 ## Requirements  (Prerequisites)
