@@ -1,9 +1,7 @@
-# CAROM
-> Write a little description about your project. 2-3 sentances are enough.
+# CAROM-ML: Comparitive Analysis of Regulators of Metabolism - Machine Learning
+CAROM-ML is a machine-learning tool used to analyze the distribution of metabolic control between post-translational modifications (PTMs). CAROM-ML comprises of a XGBoost model trained on various gene, reaction and enzyme properties which predicts whether an enzyme is acetylated, phosphorylated or neither. Additionally, CAROM-ML explores the properties of gene-reaction pairs that have the largest impact on the model's classification. 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-
 
 ![](https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png)
 
