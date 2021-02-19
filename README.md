@@ -8,8 +8,8 @@ CAROM-ML is a machine-learning tool used to analyze the distribution of metaboli
 ## Requirements  (Prerequisites)
 Tools and packages required to successfully install this project.
 For example:
-* Linux [Install](https://link-for-setup-guide)
-* Python 3.3 and up [Install](https://link-for-setup-guide)
+* Python 3.3 and up
+* XGBoost
 
 ## Installation
 A step by step list of commands / guide that informs how to install an instance of this project.
