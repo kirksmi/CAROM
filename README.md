@@ -1,9 +1,9 @@
 # CAROM-ML: Comparitive Analysis of Regulators of Metabolism - Machine Learning
+<img src="https://github.com/kirksmi/CAROM/blob/main/images/caromLogo2.png" alt="caromLogo" width="250"/>
 CAROM-ML is a machine-learning tool used to analyze the distribution of metabolic control between post-translational modifications (PTMs). CAROM-ML comprises of a XGBoost model trained on various gene, reaction and enzyme properties which predicts whether an enzyme is acetylated, phosphorylated or neither. Additionally, CAROM-ML explores the properties of gene-reaction pairs that have the largest impact on the model's classification.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-<img src="https://github.com/kirksmi/CAROM/blob/main/images/caromLogo2.png" alt="caromLogo" width="250"/>
 
 ## Requirements  (Prerequisites)
 Tools and packages required to successfully install this project.
